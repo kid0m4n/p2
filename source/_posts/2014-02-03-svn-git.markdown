@@ -11,7 +11,7 @@ authors:
       avatar: mikeVitale-avatar.jpg
     - name: Rachel Laycock
       twitter: rachellaycock
-      avatar: rachel-avatar.png 
+      avatar: rachel-avatar.jpg 
 ---
 No one likes change. It’s uncomfortable, difficult, and sometimes down-right painful. But in order to improve and be more effective at our jobs we often need to change. In this industry especially, change happens in technologies and practices at an alarming rate. That might lead you to believe that those who work in this industry happily embrace change and see it as par for the course. In my experience this is often not the case.
 
