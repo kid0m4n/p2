@@ -86,9 +86,9 @@ Because Babushka doesn't know how to "move the dock to the right", it has to be 
 
 <span class='inline-code'>met?</span> is evaluated for truthiness (<span class='inline-code'>truthy</span> meaning "this dependency is already met" and <span class='inline-code'>falsey</span> meaning "this dependency is not yet met"). It is run every time a dependency is required.
 
-<span class='inline-code'>meet</span> is what performs the action to install a dependency if the dependency isn't already <span class='inline-code'>met?</span>. In the case of auto hiding the dock.
+<span class='inline-code'>meet</span> is what performs the action to install a dependency if the dependency isn't already <span class='inline-code'>met?</span>. Let’s look at the case of auto hiding the dock.
 
-For example: If the doc is already set to hidden — i.e. the shell command <span class='inline-code'>defaults read com.apple.dock autohide</span> returns 0 and outputs the value "1" to stdout — then the dependency is already met. If it's not already hidden, then write setting and restart the dock.
+For example: If the dock is already set to hidden — i.e. the shell command <span class='inline-code'>defaults read com.apple.dock autohide</span> returns 0 and outputs the value "1" to stdout — then the dependency is already met. If it's not already hidden, then write setting and restart the dock.
 
 <span class='inline-code'>meet</span> blocks should be idempotent by convention. Care should be taken so that running Babushka multiple times doesn't have unintended side effects.
 
