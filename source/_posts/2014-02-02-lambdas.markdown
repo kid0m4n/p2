@@ -18,7 +18,7 @@ Once garbage collection became mainstream, it simultaneously eliminated entire c
 
 I’ll start with a common problem and its imperative solution. Let’s say that you are given a list of names, some of which consist of a single character, and you are asked to return a comma-delimited string with the single letter names removed, with each name capitalized. Java code to implement this algorithm appears in Example 1-1.
 
-<div class='normal-gist'><code id="gist-7716891" data-file="code.cc"></code></div>
+![Code](/p2/images/lambdas/neal-code1.jpg)
 
 Because you must process the entire list, the easiest way to attack the problem in Example 1-1 is within an imperative loop. For each name, I check to see if it’s length is greater than the disallowed single character, then append the capitalized name onto result, along with a trailing comma. The last name in the final string shouldn’t include the comma, so I strip it off the final return value.
 
@@ -28,19 +28,20 @@ Imperative programming encourages developers to perform operations within loops.
 
 Functional programming languages categorize problems differently than imperative languages. The logical categories listed above are represented as functions that implement the low-level transformation but rely on the developer to customize the low-level machinery with a higher-order function, supplied as one of the parameters. Thus, I could conceptualize the problem as
 
-<div class='normal-gist'><code id="gist-7716891" data-file="code.cc"></code></div>
+<script src="https://gist.github.com/caek/8811960.js"></script>
+
 
 Functional languages allow you to model this conceptual solution without worrying about the details.
 
 Consider the processing example from Example 1-1, implemented in Java 8, shown in Example 1-2.
 
-<div class='normal-gist'><code id="gist-7716891" data-file="code.cc"></code></div>
+![Code](/p2/images/lambdas/neal-code2.jpg)
 
 The Java example in Example 1-2 reads much like the pseudo-code above, with necessary implementation details. Given the list of names, I first filter it, eliminating single characters. The output of that operation is then fed into the map() function, which executes the supplied code block on each element of the collection, returning the transformed collection. Finally, the output collection from map flows to the reduce() function, which combines each element based on the rules supplied in the code block. In this case, to combine the first two elements, I concatenate them with a comma. 
 
 What are the benefits of thinking at a higher level of abstraction? First, it encourages you to categorize problems differently, seeing commonalities. Second, it allows the runtime to be more intelligent about optimizations. In some cases, re-ordering the work stream makes it more efficient (for example, processing fewer items) if it doesn’t change the ultimate outcome. Third, it allows solutions that aren’t possible when the developer is elbow deep in the details of the engine. For example, consider the chore required to make the Java code in Example 1-1 run across multiple threads. Because you control the low-level details of iteration, you must weave the thread code into yours. In the Java 8 version, I can make it parallel by adding another modifier to the stream, as shown in Example 1-3.
 
-<div class='normal-gist'><code id="gist-7716891" data-file="code.cc"></code></div>
+![Code](/p2/images/lambdas/neal-code3.jpg)
 
 Working at a higher level of abstraction allows the runtime to optimize low-level details. Writing an industrial strength virtual machine with garbage collection is an extraordinarily complex task, and developers gladly ceded those responsibilities. By encapsulating garbage collection, JVM engineers have made great advances that developers enjoy yet are not negatively impacted by. Functional programming aims to do that at the algorithmic level.
 

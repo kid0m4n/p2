@@ -13,7 +13,7 @@ Welcome to the first P2 for 2014. This is the eigth issue we've published of the
 
 We would love to get more input, so if you would like to contribute send an email to p2@thoughtworks.com. 
 
-This month the Virus and Build Gripes series will take a short hiatus, but they will return with more episodes soon. In the meantime, we hope you enjoy some content from new writers like Mike Vitale who shares his experiences on how to make technical changes at scale in a large organisation or from Sam Gibson on automating your workstation with Babushka. Or perhaps you have long been wondering what the difference is between Lambda's, Closures and Blocks in functional programming, the wonderful Neal Ford will share his thoughts on this.  
+This month the Virus and Build Gripes series will take a short hiatus, but they will return with more episodes soon. In the meantime, we hope you enjoy some content from new writers like Mike Vitale who shares his experiences on how to make technical changes at scale in a large organisation or from Sam Gibson on automating your workstation with Babushka. We also have a deep dive on lambdas by the wonderful Neal Ford will share his thoughts on this.  
 
 Thank you for reading and for the great feedback you've given the P2 team. 
 

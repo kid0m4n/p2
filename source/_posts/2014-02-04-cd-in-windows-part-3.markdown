@@ -12,13 +12,13 @@ authors:
 ---
 And now we’re onto the really tough problem of automating the creation and updates to your infrastructure on Windows. What we want is to be able to create any environment at the touch of a button and using automation this environment magically appears before our eyes ready to deploy our software to. Allowing us to do things like parallel testing and scaling of your infrastructure. The best way to do this at present is through virtualisation.
 
-### Virtualisation
+## Virtualisation
 
 Virtualisation means you won’t be building all your environments from scratch on one box.  Through shared use of server resources you can create lots of production-like environments at low cost. You can choose to build your own local cloud solution for this or choose a hosted option. The easiest being the latter, as most hosted cloud options provided by vendors like Azure from MS and EC2 from Amazon, provide Infrastructure as a Service (IaaS). This will give you some basic Windows infrastructure, like your operating system, but that is only part of the problem solved. 
 
 >> "you can build the entire environment from scratch using Puppet and Chef…but hold on I thought we were on Windows?"
 
-### Environments
+## Environments
 Most real systems are heterogeneous, which means they need to be configured for specific purposes. Examples of the types of environments you might need are development, continuous integration (CI) and production-like. Development is likely to have development tools and stubs to external components and applications. CI may only include your build tool and basic frameworks like .NET, but won’t need development tools or real external components and applications. Production-like environments will have real external components and systems, but won’t need build and development tools. You could start with a base image and then use configuration management tools like Puppet and Chef to configure your environment to your needs. Alternatively, you can build the entire environment from scratch using Puppet and Chef…but hold on I thought we were on Windows?
 
 ## Configuration Management
