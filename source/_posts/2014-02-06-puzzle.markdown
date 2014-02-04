@@ -3,7 +3,7 @@ layout: post
 title: Puzzle
 subtitle: Garbage Collection
 permalink: /issue08/puzzle/
-byline: The P2 Elves
+byline: Anand Krishnaswamy
 category: issue08
 authors:
     - name: by Anand Krishnaswamy
