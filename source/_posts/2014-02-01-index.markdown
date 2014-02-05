@@ -3,7 +3,7 @@ layout: editorial
 title: A Word From The Editors
 modelDate: Issue 08, November 2013
 permalink: /issue08/index
-lastIssue: /p2/issue08/index/
+lastIssue: /p2/issue07/index/
 cover: issue_8_cover.jpg
 issue: "08"
 key: issue08
