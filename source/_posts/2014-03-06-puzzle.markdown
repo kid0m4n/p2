@@ -1,0 +1,32 @@
+---
+layout: post
+title: Puzzle
+subtitle: Garbage Collection - Take 2
+permalink: /issue09/puzzle/
+byline: Anand Krishnaswamy
+category: issue09
+authors:
+    - name: by Anand Krishnaswamy
+      avatar: anand-avatar.jpg
+---
+We didn’t get any correct answers to last month's puzzle, but the responses we did receive provided great feedback* on how to improve it. So, in the spirit of agile, we are going to iterate and improve. We have taken your comments and reworded the puzzle to hopefully make it more clear.
+
+Please send your answers to p2@thoughtworks.com and the best answer will win a P2 related prize!
+
+A city is divided into zones (shown in red, green, orange, lilac and blue in the picture below) by the municipal corporation. Each zone has a few garbage bins within its bounds (spread out as evenly as possible). Each zone (except the grey one) has a garbage collection truck assigned to it. This truck plies the designated zone and empties the bins therein. Each truck has the capacity of 9 bins. Surrounding the brightly coloured zones is a special zone (bounded by the black line & outside all the other zones) - this is a "common-zone". Any truck can empty bins in this zone, but only when it has collected all the garbage in its designated zone. No truck is assigned the grey zone.
+
+![Garbage](/p2/images/puzzle/garbage.png)
+
+The problem that the garbage company faces is simple. They want a mechanism to identify which bins have been emptied & whether a truck has emptied all the bins in its zone. Secondly, the company has faced some problems. Drivers sometimes fill their truck with “stuff” from somewhere (not from the city bins), thereby increasing the weight of their “daily collection” & claiming money for it. The company wishes to ensure that the collection in the truck is indeed only from the city bins.
+
+Devise a solution for the garbage collection company to track the activity (bins visited, bins emptied, etc.) & collection for their trucks.
+
+Note that your elegant solution must be frugal & can scale to a city with, say, 10,000 bins.
+
+*Feedback is always welcome! If you have some ideas or would like to submit your own puzzle to P2 Magazine then please email us at p2@thoughtworks.com.
+
+
+
+
+
+
