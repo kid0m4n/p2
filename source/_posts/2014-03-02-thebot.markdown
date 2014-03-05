@@ -14,7 +14,7 @@ authors:
 
 “A crowd controlled robotic car!" 
 
-![TheBot](/p2/images/robot/1.jpg)
+![TheBot](/p2/images/robot/1.png)
 
 A fun product with a tonne of learning potential. However, doing a "follow the blog posts/tutorials" stitch and patch job recommended on the NodeBots site did not excite me one bit. Sure, we’d done it in two days, but what would we have learned in the process? 
 
@@ -36,7 +36,7 @@ Unique Selling Proposal: TheBot’s value is the immense learning and research p
 
 We plan on doing a proper video walk through of the hardware soon, but until then:
 
-![Design](/p2/images/robot/3.jpg)
+![Design](/p2/images/robot/3.png)
 
 
 ### Why Golang?
@@ -49,7 +49,7 @@ Golang is a statically typed, garbage collected and compiled programming languag
 
 ### Why RaspberryPi?
 
-The RaspberryPi represents the most available lowest common denominator; an ARM chip running Linux. Besides marrying well with cross compiled Golang, it also doesn’t skimp in the I/O department I2C ✓ GPIO ✓ PWM ✓ The forgiving nature of the hardware, integrated HDMI/Ethernet/USB go a long way in making it a good first choice.
+The RaspberryPi represents the most available lowest common denominator; an ARM chip running Linux. Besides marrying well with cross compiled Golang, it also doesn’t skimp in the I/O department. It supports I2C, GPIO, and PWM. The forgiving nature of the hardware, integrated HDMI/Ethernet/USB go a long way in making it a good first choice.
 
 That being said, we could deploy the firmware, in its current form, on any Linux based platform that has the ability to talk GPIO/I2C, including:
 BeagleBone Black

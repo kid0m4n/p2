@@ -8,7 +8,7 @@ category: issue09
 authors:
     - name: Rouan Wilsenach
       twitter: rouanw
-	  avatar: Rouan-Wilsenach.jpg
+      avatar: rouan-wilsenach.jpg
 ---
 It’s common for people to be sceptical of software developers with varied coding experience. We're used to seeing, “5 years C# experience” on the CV in front of us, so when we see a CV that says: “2 years of Ruby, 1 year of Python and 2 years of Java”, we might be concerned that the person doesn't have the depth of experience we need.  Although this reaction is natural, it’s misguided.
 
