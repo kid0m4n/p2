@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TheBot
+title: TheBot - Adventure in Hardware
 subtitle: 
 permalink: /issue09/thebot
 byline: Karan Misra

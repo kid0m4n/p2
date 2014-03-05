@@ -15,9 +15,9 @@ This month we have a new area of focus in our articles - hardware. ThoughtWorks 
 
 We also have some more DevOps fun with Vagrant from Derek Hammer. 
 
-On the Polyglot front Rouan Wilsenach explains why hiring a polglot programmer is good for your team vs a language expert and Dave Elliman tells us a story of using Clojure on a Java team.
+On the Polyglot front Rouan Wilsenach explains why hiring a polyglot programmer is good for your team vs a language expert and Dave Elliman tells us a success story of using Clojure on a Java team.
 
-We are very development heavy this month and we want P2 Magazine to encompass all aspects of what ThoughtWorks does and how we innovate and create excellent software. So next month Amira Pettus will join the team to drive through some stories from the UX community. If you would like to contribute stories on Testing, Analysis or Process then please reach out to us on p2@thoughtworks.com. 
+We are very technology heavy this month and we want P2 Magazine to encompass all aspects of what ThoughtWorks does and how we innovate to create excellent software. So next month Amira Pettus will join the team to drive through some stories from the UX community. If you would like to contribute stories on Testing, Analysis or Process then please reach out to us on p2@thoughtworks.com. 
 
 Thank you for reading and for the great feedback you've given the P2 team. 
 
