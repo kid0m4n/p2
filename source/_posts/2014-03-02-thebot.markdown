@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TheBot - Adventure in Hardware
+title: TheBot - Adventures in Hardware
 subtitle: 
 permalink: /issue09/thebot
 byline: Karan Misra
@@ -14,13 +14,13 @@ authors:
 
 “A crowd controlled robotic car!" 
 
-![TheBot](/p2/images/robot/thebot.jpg)
+![TheBot](/p2/images/robot/1.jpg)
 
 A fun product with a tonne of learning potential. However, doing a "follow the blog posts/tutorials" stitch and patch job recommended on the NodeBots site did not excite me one bit. Sure, we’d done it in two days, but what would we have learned in the process? 
 
 Despite having worked extensively on node.js, the language did not interest me much - ambiguous syntax, callbacks, promises, etc. I had been looking for an opportunity do something real in Golang, and building a concurrent open source firmware for TheBot was just the ticket.
 
-![Robot](/p2/images/robot/robot-complete.jpg)
+![Robot](/p2/images/robot/2.jpg)
 
 TheBot is first and foremost an experiment. An experiment aimed at research and learning. An experiment to kickstart a hardware engineering culture in ThoughtWorks. Birthed as a crowd controlled robotic car that transmits video feed back to the controller; the vision has transformed many times during the development. Can it be the ultimate open source sensing/proximity prototyping platform? Could we extract a product out of this?
 
@@ -36,7 +36,7 @@ Unique Selling Proposal: TheBot’s value is the immense learning and research p
 
 We plan on doing a proper video walk through of the hardware soon, but until then:
 
-![Design](/p2/images/robot/arch.jpg)
+![Design](/p2/images/robot/3.jpg)
 
 
 ### Why Golang?
@@ -86,5 +86,7 @@ The possibilities are truly endless.
 ### Credits
 
 Contributors in no particular order: Sapto, Rohit, Kunal, Nikesh, Shantanu, Hanu, Gagan, Shaunak, Kashyap, Mukund, Akhil, Vishwas, Mallik, Deepthi, Shaun, Nag, Bala & Sam Newman
+
+![Credits](/p2/images/robot/4.jpg)
 
 
