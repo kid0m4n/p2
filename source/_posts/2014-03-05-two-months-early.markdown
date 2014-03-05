@@ -9,9 +9,9 @@ authors:
       avatar: dave-elliman.jpg
 ---
 
-It was a sunny Thursday afternoon. An intrigued, but slightly dubious Technical Architect, Dan, left our ThoughtWorks presentation.
+*It was a sunny Thursday afternoon. An intrigued, but slightly dubious Technical Architect, Dan, left our ThoughtWorks presentation.*
 
-Could Clojure be used to build the bespoke CMS? Is it too bleeding edge? Would his team get it?  
+*Could Clojure be used to build the bespoke CMS? Is it too bleeding edge? Would his team get it?*
 
 But lets take a step back. Why would a large organisation with a mix of technologies and legacy systems want to muddy the waters with a completely new language?
 
@@ -25,23 +25,23 @@ A few months in we were about to start a smaller project within the larger progr
 
 We already had a continuous delivery pipeline set up from the main project that we could adapt, we just needed the right technological choices that would deliver business value in an innovative way to meet our deadline. We knew we had to use the JVM, but building what was to be an app used by partnering digital agencies and client staff, needed to be robust and work intuitively. After brainstorming some ideas we decided to put forward the idea of a Javascript based Single Page App (SPA) with a Clojure back end and a set of small Clojure based micro services sitting on top of MongoDB hosted in Rackspace. 
 
-Dan wasn’t easily convinced. He took some persuading...
+*Dan wasn’t easily convinced. He took some persuading...*
 
 We had to present the pros and cons of polyglot programming using the JVM as the basis of the agreement, rather than just using Java. 
 
-Dan still wasn’t convinced...
+*Dan still wasn’t convinced...*
 
 We discussed the existing Clojure community, the maturity of the language itself and the momentum we saw in the industry. Companies are seeing speed to market deliveries, that are based on Clojure. 
 
-Dan decided to test out the theory. 
+*Dan decided to test out the theory.*
 
-If he, someone without a development background could get Clojure, then surely his team of Java developers could too.
+*If he, someone without a development background could get Clojure, then surely his team of Java developers could too.*
 
-He had recently built an app to collect data about the various sites the company hosted in different places and had used Java and Spring MVC. He locked himself away for the weekend and rebuilt his app... in a fraction of the code. 
+*He had recently built an app to collect data about the various sites the company hosted in different places and had used Java and Spring MVC. He locked himself away for the weekend and rebuilt his app... in a fraction of the code. *
 
 The following Monday we got an email from Dan.  
 
-“I am more than happy to go ahead with the use of Clojure.” 
+*“I am more than happy to go ahead with the use of Clojure.”*
 
 Win.
 

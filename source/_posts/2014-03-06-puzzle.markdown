@@ -23,7 +23,7 @@ Devise a solution for the garbage collection company to track the activity (bins
 
 Note that your elegant solution must be frugal & can scale to a city with, say, 10,000 bins.
 
-*Feedback is always welcome! If you have some ideas or would like to submit your own puzzle to P2 Magazine then please email us at p2@thoughtworks.com.
+**Feedback is always welcome! If you have some ideas or would like to submit your own puzzle to P2 Magazine then please email us at p2@thoughtworks.com.*
 
 
 

@@ -26,9 +26,9 @@ Some environments are more modern than others. Either because they are newer or 
 
 One conflict we face is the differences between workstations and upstream environments. We want to normalize the tools we use, so we did the following in each environment:
 
-<b>Development:</b> We abstracted away the differences between Mac, Linux and - for the most part - Windows. Doing this was a great way to ensure consistency for engineers.
+- **Development:** We abstracted away the differences between Mac, Linux and - for the most part - Windows. Doing this was a great way to ensure consistency for engineers.
 
-<b>Production:</b> To go just a step further, our Vagrant boxes are set up to use the same virtual machine image we use in the datacenter, where we deploy. In the words of Forrest Gump, "That's good! One less thing." 
+- **Production:** To go just a step further, our Vagrant boxes are set up to use the same virtual machine image we use in the datacenter, where we deploy. In the words of Forrest Gump, "That's good! One less thing." 
 
 Some of our tooling differs because of where and how we deploy. Some of our software, for example, runs and compiles under Java 7 while others are still on Java 6. Vagrant made this completely painless because of the isolation of virtual machines.
 
