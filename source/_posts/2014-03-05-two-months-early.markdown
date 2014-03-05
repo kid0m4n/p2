@@ -37,7 +37,7 @@ We discussed the existing Clojure community, the maturity of the language itself
 
 *If he, someone without a development background could get Clojure, then surely his team of Java developers could too.*
 
-*He had recently built an app to collect data about the various sites the company hosted in different places and had used Java and Spring MVC. He locked himself away for the weekend and rebuilt his app... in a fraction of the code. *
+*He had recently built an app to collect data about the various sites the company hosted in different places and had used Java and Spring MVC. He locked himself away for the weekend and rebuilt his app... in a fraction of the code.*
 
 The following Monday we got an email from Dan.  
 

@@ -59,7 +59,7 @@ Our long term goal is to be able to target raw microcontrollers.
 
 ### What does it do ?
 
-Watch the video: http://www.youtube.com/watch?v=iMXjkZ4B3EM
+Watch the <a href="http://www.youtube.com/watch?v=iMXjkZ4B3EM" target="_blank">video</a>.
 
 ### What next?
 
@@ -80,7 +80,8 @@ The possibilities are truly endless.
 
 ### Links to Watch
 
-https://github.com/kidoman/embd
+<a href="https://github.com/kidoman/embd" target="_blank">github.com/kidoman/embd</a>
+
 
 ### Credits
 
