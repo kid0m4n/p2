@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you should hire a Polyglot Programmer?
+title: Why you should hire a Polyglot Programmer
 subtitle: 
 permalink: /issue08/hire-polyglot
 byline: Rouan Wilsenach
