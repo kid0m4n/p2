@@ -1,0 +1,44 @@
+---
+layout: post
+title: Puzzle
+subtitle: Sonny Bayes Robs the Train
+permalink: /issue10/puzzle/
+byline: David Johnston
+category: issue10
+authors:
+    - name: David Johnston
+      avatar: david-johnston.jpg
+---
+This months puzzle comes from the analytical mind of David Johnston…
+
+You are a train robber named Sonny Bayes. You have an informant inside the central
+bank who alerts you there are three trains leaving the bank on a certain day carrying
+large and equal amounts of gold to the three regional banks. You and your buddies
+Buster and Shane will help you rob the trains.
+
+The three of you agree that robbing a train is a three person job and that you'll only
+be able to rob one of them. You know this because this is your 3rd attempt. In the two prior attempts each of you was able to get onboard one of the three of the trains, and count the gold. But you were never able to figure out how to get if off the train. The estimated amounts the three of you had seen was {14, 14, 7, 13, 10, 15, 7, 8, 12} in millions of dollars. This time you have have devised a clever scheme! But it will involve all of you working together robbing the same train.
+
+The day of departure, your informant sends you a message: “Due to mechanical failure on the Silver Bullet line, only two trains left and one of them is carrying twice as much gold.” Since the message does not clarify which is the train with the larger sum, you randomly pick one of the other two and ride off to meet it.  
+
+You sneak onto the train and find your way to the treasury car and find what appears to be around 10 million dollars worth of gold. As you begin loading it up, Buster says "You know, it isn't too late to just leave this and go rob the other train. If we're lucky we might find twice as much on the other train." Shane frowns and replies, "Yeah and if we are unlucky we'll only find half as much". But Buster replies, "We picked this train randomly right? That means there is a 50-50 chance that this train is the richer one, right?"
+
+You both nod in agreement wondering where he is going with this. Then he says, "It seems
+to me that we are better off switching. Odds are we are going to come out ahead. If we
+keep this gold, we might have 10 million but if we switch we either get 5 million or 20
+million, right? Since either is equally likely, it seems to me that on average we
+are going to make (5+20)/2. That's 12.5 which is more than 10."
+
+Shane thinks a minute and then replies "That just doesn't seem right. Buster's arithmetic seems right but wouldn't this hold no matter how much we found. Isn't half of anything plus twice of that same thing always greater than the original thing? (If they knew algebra, they would express this as (x/2+2x)/2 = 5/4 x > x.)
+
+Shane continues, "If it works for every number then why did we even have to count the gold. Wouldn't it also be better to switch even if we didn't even count it? Why did we even have to climb on board? How could randomly picking one train and then immediately changing your mind make you come out ahead? When we ride up next to this next train, can't we make the same argument that switching is better and so should come back to this one and so on?"
+
+At this point tempers flare and both draw their revolvers and aim at each other. You, Sonny Bayes, are the gang leader. You gotta straighten this out, decide what to do and convince your two partners! Should you switch or not and why? What would true professionals do?
+
+**Please submit your response to the P2 Magazine team at p2@thoughtworks.com to be in a chance to win fabulous P2 prizes.*
+
+
+
+
+
+

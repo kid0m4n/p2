@@ -1,9 +1,10 @@
 ---
 layout: editorial
 title: A Word From The Editor
-modelDate: Issue 09, November 2014
+modelDate: Issue 09, March 2014
 permalink: /issue09/index
 lastIssue: /p2/issue08/index/
+nextIssue: /p2/issue10/index/
 cover: issue_9_cover.jpg
 issue: "09"
 key: issue09

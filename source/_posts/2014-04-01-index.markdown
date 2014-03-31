@@ -1,0 +1,22 @@
+---
+layout: editorial
+title: A Word From The Editor
+modelDate: Issue 10, April 2014
+permalink: /issue10/index
+lastIssue: /p2/issue09/index/
+cover: issue_10_cover.jpg
+issue: "10"
+key: issue10
+category: index
+---
+Welcome to the April issue of P2. 
+
+This month we have a rich mix of content that relates to P2 at ThoughtWorks.
+
+We another Hardware article to come out of the 100 days of Hardware inititive from India and on problem solving and solutioning at ThoughtWorks from understanding huge codebases to innovating in the product space. Enjoy!
+
+And as always send your P2 stories to p2@thoughtworks.com. 
+
+Thank you for reading!
+
+Rachel Laycock, Editor in Chief

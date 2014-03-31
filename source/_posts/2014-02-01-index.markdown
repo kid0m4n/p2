@@ -1,7 +1,7 @@
 ---
 layout: editorial
 title: A Word From The Editors
-modelDate: Issue 08, November 2013
+modelDate: Issue 08, February 2013
 permalink: /issue08/index
 lastIssue: /p2/issue07/index/
 nextIssue: /p2/issue09/index/
