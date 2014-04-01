@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puzzle
+title: March Puzzle Answer
 subtitle: Garbage Collection - Answer
 permalink: /issue10/puzzle/
 byline: Anand Krishnaswamy

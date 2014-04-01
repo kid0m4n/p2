@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puzzle
+title: April Puzzle
 subtitle: Sonny Bayes Robs the Train
 permalink: /issue10/puzzle/
 byline: David Johnston
