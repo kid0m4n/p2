@@ -2,7 +2,7 @@
 layout: post
 title: Wireless Arduino automation
 permalink: /issue10/arduino
-byline: Shatanu Tushar
+byline: Shantanu Tushar
 category: issue10
 authors:
     - name: Shantanu Tushar
