@@ -9,6 +9,9 @@ authors:
       twitter: shantanutushar
       avatar: shantanu-tushar.jpg
 ---
+
+![Arduino Uno](/p2/images/arduino_uno.jpg)
+
 Imagine a home automation system where you can have sensors to measure movement, temperature, and ambient light. All these sensors need to be plugged into an Arduino board, along with the connections to tubelights, fans, and a thermostat. You take your program that makes the interaction work and upload it to the board. Now you have it all working, you mount the board on the wall and connect the rest of the circuitry. Hardware hacking success!
 
 >> “I subscribe to the “lazy programmer” guild. Any process that I have to do repeatedly… reeks of automation opportunity.”
