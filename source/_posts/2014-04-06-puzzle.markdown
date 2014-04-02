@@ -2,12 +2,12 @@
 layout: post
 title: April Puzzle
 subtitle: Sonny Bayes Robs the Train
-permalink: /issue10/puzzle/
+permalink: /issue10/april-puzzle/
 byline: David Johnston
 category: issue10
 authors:
     - name: David Johnston
-      avatar: david-johnston.jpg
+      avatar: david-johnston.png
 ---
 This months puzzle comes from the analytical mind of David Johnston…
 

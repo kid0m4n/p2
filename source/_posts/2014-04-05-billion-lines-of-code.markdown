@@ -6,7 +6,8 @@ byline: Dan Abel
 category: issue10
 authors:
     - name: Dan Abel
-      avatar: dan-abel.jpg
+      twitter: twicezer0
+      avatar: Dan-Abel.jpg
 ---
 
 *A client wanted us to quickly tell them the state their code was in. They wanted to improve their speed of delivery. I had access to more code than I could possibly look at. I was challenged to find the art of the possible whilst trying to avoid over-focusing or worse, panicking.*

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Wireless Arduino Automation
+title: Wireless Arduino automation
 permalink: /issue10/arduino
 byline: Shatanu Tushar
 category: issue10
 authors:
-    - name: Shatanu Tushar
-      twitter: 
+    - name: Shantanu Tushar
+      twitter: shantanutushar
       avatar: shantanu-tushar.jpg
 ---
 Imagine a home automation system where you can have sensors to measure movement, temperature, and ambient light. All these sensors need to be plugged into an Arduino board, along with the connections to tubelights, fans, and a thermostat. You take your program that makes the interaction work and upload it to the board. Now you have it all working, you mount the board on the wall and connect the rest of the circuitry. Hardware hacking success!
@@ -16,8 +16,6 @@ Imagine a home automation system where you can have sensors to measure movement,
 But, as with any project, you want to start simply with just one or two requirements. And then keep adding more during the course of time once you have something working. In the world of hardware this translates to adding more sensors and output components, and then changing your program and uploading the changes it to the board. But to do this you have to take the board off the wall and upload the changes. Meh. 
 
 I subscribe to the “lazy programmer” guild. Any process that I have to do repeatedly I consider to be “painstaking” and it reeks of automation opportunity. For me it is way too much effort to unmount the board every time I want read a new sensor value or use a new GPIO pin for output. 
-
-![arduino](/p2/images/arduino.jpg)
 
 Throughout our hardware experiments at ThoughtWorks in Bangalore we have been using Arduino hardware. Arduino’s are the most popular hardware for prototyping today. Arduino itself is not just hardware, it is an open-source prototyping platform that can receive input from sensors and affect its surroundings by controlling actuators like lights, motors, etc. The typical workflow for hardware prototyping using Arduino involves three steps: 
 
@@ -30,6 +28,8 @@ Throughout our hardware experiments at ThoughtWorks in Bangalore we have been us
 An example of this could be if you want to switch on an LED when somebody walks into the room, you will use a motion sensor and then your program will monitor its input and set the LED to on or off accordingly.
 
 To get all this working together you need to upload a program to the Arduino by connecting it to a computer through USB and then use the Arduino IDE. All sounds great right? Except the unmounting and mounting of your Arduino!
+
+>> "you can configure new sensors... without having to re-write the program. All this without disturbing your Arduino sitting... in another room!
 
 To do away with the need of disconnecting the Arduino from the circuit and connecting it to the computer, I wrote an Arduino program (also known as a sketch) which does not hardcode the input and output pins. Instead, it waits and accepts this configuration over a wireless channel created using cheap nRF24l01 modules. All you need is one module attached to the Arduino (receiver) and another module attached to either another Arduino or a Raspberry Pi (sender). The sender can then send configuration strings as commands like this:
 

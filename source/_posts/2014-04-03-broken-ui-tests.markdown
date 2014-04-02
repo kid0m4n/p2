@@ -3,7 +3,7 @@ layout: post
 title: We hate your broken UI tests!
 subtitle: 
 permalink: /issue09/broken-ui-tests
-byline: Chirag Doshi and Raxchel Laycock
+byline: Chirag Doshi and Rachel Laycock
 category: issue10
 authors:
     - name: Chirag Doshi

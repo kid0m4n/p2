@@ -11,9 +11,9 @@ category: index
 ---
 Welcome to the April issue of P2. 
 
-This month we have a rich mix of content that about P2 at ThoughtWorks.
+This month we have a rich mix of P2 goodness on offer.
 
-We have another Hardware article to come out of the 100 days of Hardware inititive from India and a couple on problem solving and solutioning at ThoughtWorks. Everything from understanding huge codebases to innovating in the product space. Enjoy!
+We have another Hardware article to come out of the 100 days of Hardware initiative from India and a couple on problem solving and solutioning at ThoughtWorks. Everything from understanding huge codebases to innovating in the product space. Enjoy!
 
 And as always send your P2 stories to p2@thoughtworks.com. 
 

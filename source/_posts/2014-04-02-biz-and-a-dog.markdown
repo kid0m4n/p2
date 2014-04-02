@@ -13,7 +13,7 @@ On her current project, Natalie has taken a room above a local bar and made a ha
  
 The bartender slides a frosty mug towards her, “They’re my cousins.  Each one of them takes care of a part of their father’s business.  Things aren’t going well.  Kind of sad really. If you can get one of them to smile, I’ll buy you another beer.”
 
-![Barkeep](/p2/images/TheBarKeep.jpg)
+![Barkeep](/p2/images/Paul-Sullivan-Barkeep.JPG)
 
 ### The First Brother - Rapid Innovation
 
@@ -45,7 +45,7 @@ Nearly choking on her beer in shock, Natalie replies, “Heck, we don’t hand o
  
 He grins, “Show me how.” Natalie pulls out her iPad and walks him through a diagram of the engagement.
 
-![ContinuousImprovement](/p2/images/ci.jpg)
+![ContinuousImprovement](/p2/images/Cont-Improvement.png)
 
 ### The Second Brother - Disruptive Product Innovation
 
@@ -67,6 +67,8 @@ No street noise at two am sounded good, but when she walks up to the next older 
  
 Natalie shows him the approach.  When he smiles, Natalie knows she’ll be waking up to the sound of birds chirping.
 
+![EnterpriseInnovation](/p2/images/new-product-innovation.png)
+
 
 ### The Third Brother - Complex Enterprise Innovation
 
@@ -84,13 +86,13 @@ Nat steadily meets his gaze and thinks of her dog, Winston’s, love of steaks. 
  
 “Six months. The first store launched in Toronto’s Eaton Center”. 
 
-![EnterpriseInnovation](/p2/images/ei.jpg)
+![EnterpriseInnovation](/p2/images/Enterprise-innovation.png)
  
 As she explained the diverse capabilities that drove innovation at scale, Natalie mused that the big guy was much less intimidating when he smiled. 
 
-### The Third Brother - Complex Enterprise Innovation
+### Business Innovation Brings Happiness
 
 That night, as she fed chunks of steak to Winston, she contemplated the joys of being a partner to business innovators.  You drink better, you sleep better … and your dog is happier.  
 
-![Winston](/p2/images/winston.jpg)
+![Winston](/p2/images/Winston-the-dog.jpeg)
 
