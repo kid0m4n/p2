@@ -17,7 +17,7 @@ large and equal amounts of gold to the three regional banks. You and your buddie
 Buster and Shane will help you rob the trains.
 
 The three of you agree that robbing a train is a three person job and that you'll only
-be able to rob one of them. You know this because this is your 3rd attempt. In the two prior attempts each of you was able to get onboard one of the three of the trains, and count the gold. But you were never able to figure out how to get if off the train. The estimated amounts the three of you had seen was {14, 14, 7, 13, 10, 15, 7, 8, 12} in millions of dollars. This time you have have devised a clever scheme! But it will involve all of you working together robbing the same train.
+be able to rob one of them. You know this because this is your 4th attempt. In the two prior attempts each of you was able to get onboard one of the three of the trains, and count the gold. But you were never able to figure out how to get if off the train. The estimated amounts the three of you had seen was {14, 14, 7, 13, 10, 15, 7, 8, 12} in millions of dollars. This time you have have devised a clever scheme! But it will involve all of you working together robbing the same train.
 
 The day of departure, your informant sends you a message: “Due to mechanical failure on the Silver Bullet line, only two trains left and one of them is carrying twice as much gold.” Since the message does not clarify which is the train with the larger sum, you randomly pick one of the other two and ride off to meet it.  
 
